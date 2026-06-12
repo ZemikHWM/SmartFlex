@@ -8,9 +8,11 @@ body {
   color: #010400;
   background-color: #d8d6d3;
 }
+
+
 a {
+  color: currentColor;
   text-decoration: none;
-  color: inherit;
 }
 
 h1,
@@ -21,6 +23,12 @@ h5,
 h6,
 p {
   margin: 0;
+}
+
+h1,
+h2,
+.section-benefits > h3 {
+  font-family: 'Chivo', sans-serif;
 }
 
 ul {

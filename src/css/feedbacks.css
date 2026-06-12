@@ -1,0 +1,62 @@
+.fb-wrapper-title {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  text-align: center;
+  align-items: center;
+  max-width: 343px;
+  padding-bottom: 16px;
+}
+.fb-title {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 1.2;
+  letter-spacing: -0.01em;
+  text-align: center;
+  color: #010400;
+}
+.fb-description {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+  color: #010400;
+}
+.fb-list {
+  max-width: 343px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+.fb-list-item-wrapper {
+  border: 1px solid rgba(1, 4, 0, 0.15);
+  padding: 32px;
+  width: 343px;
+  height: 314px;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+}
+.fb-list-item-commnt {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.fb-list-item-commnt-text {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  color: #010400;
+}
+.fb-list-item-user {
+  display: flex;
+  margin-top: auto;
+  align-items: center;
+  gap: 16px;
+}
+.fb-list-item-user-text {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #010400;
+}

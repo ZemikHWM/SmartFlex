@@ -1,11 +1,11 @@
 {
-  "name": "project1-team1",
+  "name": "SmartFlex",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project1-team1/",
+    "build": "vite build --base=/SmartFlex/",
     "preview": "vite preview"
   },
   "devDependencies": {
